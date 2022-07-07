@@ -1,0 +1,85 @@
+
+
+body{
+    background-color:rgb(172, 168, 168);
+
+    
+}
+.e0{
+    position: fixed;
+    top: 10%;
+    right: 22%;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    border-radius: 20px;
+   
+    
+}
+.e1{
+    background-color: white;
+    padding-left: 29px;
+    padding-right: 35px;
+   width: 550px;
+   height: 215px;
+  padding-top: 12px;
+}
+ .e1 h1{
+
+color:  hsl(179, 62%, 43%) ;
+}
+.e1 h2{
+    color:  hsl(71, 73%, 54%);
+}
+.e1 p{
+    color: hsl(203, 20%, 82%);
+}
+.e2 {
+    background-color:   hsl(179, 62%, 43%) ;
+  padding-top: 10px;
+  padding-left: 29px;
+  padding-bottom: 30px;
+  color: white;
+  width: 330px;
+
+}
+.e2 span{
+    color:hsl(203, 21%, 85%);
+    font-size: 15px;
+}
+.e2 button{
+    padding: 15px;
+    width: 240px;
+    color: white;
+    background-color:  hsl(71, 73%, 54%);
+    border: 1px solid hsl(179, 62%, 43%);
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px rgb(88, 80, 80);
+    padding-top: 17px;
+    
+}
+.e2 p{
+    padding-bottom: 13px;
+}
+.e3{
+    background-color: hsl(179, 56%, 58%);
+    width: 255px;
+    float: right;
+    margin-top: -253px;
+    height: 253px;
+    margin-right: 0px;
+    position:relative;
+    
+    color: white;
+    
+    
+}
+.e3 h1{
+    padding-left: 20px;
+
+}
+.e3 p{
+    padding-left: 20px;
+   color: hsl(203, 20%, 82%)
+}
